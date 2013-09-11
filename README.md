@@ -1,4 +1,4 @@
 bs-snips
 ========
 
-Bootstrap 3 Snippets
+SublimeText Bootstrap 3 Snippets
